@@ -21,4 +21,4 @@ This project replicates some basic functionalities of Twitter, including :
  - API calls made with Postman
  
 Project logic structure:
-![](https://ibb.co/nMLMCHp)
+![](https://i.ibb.co/60W0B3Q/Twitter-Project-Specifications-2-3.jpg)
