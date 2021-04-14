@@ -20,5 +20,6 @@ This project replicates some basic functionalities of Twitter, including :
  - Server running on Tomcat9 (embedded)
  - API calls made with Postman
  
-Project logic structure:
+### Project logic structure:
+
 ![](https://i.ibb.co/60W0B3Q/Twitter-Project-Specifications-2-3.jpg)
