@@ -19,3 +19,6 @@ This project replicates some basic functionalities of Twitter, including :
  - ORM with Spring Data
  - Server running on Tomcat9 (embedded)
  - API calls made with Postman
+ 
+Project logic structure:
+![](https://ibb.co/nMLMCHp)
